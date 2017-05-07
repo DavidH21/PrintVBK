@@ -19,3 +19,8 @@ README:
 HOW TO EXIT PROGRAM
 - During the printing stage (The saving of the file), there will be a 15 second pause.
 - Use that pause to stop the program by exiting. Or press "Control + C" on the command prompt to stop program
+
+How To Use Program
+- Download PrintVBK.jar and RunPrintVBK.bat.
+- Have them in the same folder.
+- Double click RunPrintVBK.bat.
