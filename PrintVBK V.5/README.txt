@@ -1,3 +1,5 @@
+Only Works For Windows 7
+
 README: 
 - Must be on 1600 x 900 resolution
 - Must ONLY have ONE VitalSource application opened
@@ -7,7 +9,7 @@ README:
 - Must manually print the first ten pages in a folder of choice
 	- File -> Print
 	- Click Continue in Print Preview
-	- Select “Microsoft XPS Document Writer” or PDF, etc under Name and then click OK
+	- Select â€œMicrosoft XPS Document Writerâ€ or PDF, etc under Name and then click OK
 	- Select folder of choice to save file in
 	- Save as any name
 - DELETE the XPS file that was just created
