@@ -1,3 +1,4 @@
+Only Works For Windows 7
 README: 
 - Must be on 1600 x 900 resolution
 - Must ONLY have ONE VitalSource application opened
